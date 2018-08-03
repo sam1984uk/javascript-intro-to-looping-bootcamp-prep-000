@@ -17,6 +17,6 @@ function doWhileLoop(array){
     0.5
   }
   do {array.shift()}
-  while (maybeTrue()
+  while array.length > 0(maybeTrue()
   return array
 }
